@@ -35,5 +35,15 @@ public class Main {
         lista3.add(new Gato("Tom", 5));
         lista3.add(new Gato("Felix", 2));
         printer4.printLista(lista3);
+
     }
+
+    public <T, U, V> void multipleGenericTypes(T algumaCoisa, 
+        U outraCoisa, V outraCoisaAinda) {
+
+        System.out.println(algumaCoisa);
+        System.out.println(outraCoisa);
+        System.out.println(outraCoisaAinda);
+    }
+
 }

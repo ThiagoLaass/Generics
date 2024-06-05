@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        //Surfista cleitin = new Surfista("Cleitin Leva Caldo");
-        //Zoologico<Surfista> zooSurfista = new Zoologico<>();
+        Surfista cleitin = new Surfista("Cleitin Leva Caldo");
+        Zoologico<Surfista> zooSurfista = new Zoologico<>();
         Zoologico<Mamifero> zoologicoMamiferos = new Zoologico<>();
         Mamifero leao = new Mamifero("Leão", 5000.0);
         Mamifero elefante = new Mamifero("Elefante", 7000.0);

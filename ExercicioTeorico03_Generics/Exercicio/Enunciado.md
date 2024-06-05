@@ -1,7 +1,7 @@
 
 # Exercício Teórico Desafiador sobre Generics em Java
 
-Bem vindo! Você foi encarregado de desenvovler um sistema para gerenciamento ddos animais do zoólogico de Belo Horizonte. Este sistema precisa ser capaz de manipular diferentes tipos de animais (Mamíferos, Aves, Répteis...), permitindo adicionar, remover e listar animais. Além disso, o sistema deverá permitir também calcular o custo total de manutenção desses animais, baseado em um método `getCustoManutencao()`.
+Bem vindo! Você foi encarregado de desenvovler um sistema para gerenciamento de dados de animais do zoólogico de Belo Horizonte. Este sistema precisa ser capaz de manipular diferentes tipos de animais (Mamíferos, Aves, Répteis...) permitindo adicionar, remover e listar animais. Além disso, o sistema deverá permitir também calcular o custo total de manutenção desses animais, baseado em um método `getCustoManutencao()`.
 
 ## Definição das Classes:
 - Crie uma classe abstrata `Animal` com um método abstrato `getCustoManutencao()`.

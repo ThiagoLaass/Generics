@@ -11,7 +11,7 @@ public class Main {
         pedido.adicionarItem(item1);
         pedido.adicionarItem(item2);
         pedido.adicionarItem(item3);
-        naoPedido.adicionarItem(nao);
+        //naoPedido.adicionarItem(nao);
 
         System.out.println("Pedido atual:");
         System.out.println(pedido);

@@ -1,4 +1,4 @@
-public class Gato {
+public class Gato extends Animal {
     String nome;
     Integer idade;
 

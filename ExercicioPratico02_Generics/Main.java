@@ -30,6 +30,7 @@ public class Main {
         pedido.limparPedido();
 
         System.out.println("Pedido após limpar:");
-        System.out.println(pedido);    }
+        System.out.println(pedido);    
     }
 }
+

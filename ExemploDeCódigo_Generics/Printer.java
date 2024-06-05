@@ -18,11 +18,11 @@ public class  Printer <T>{
         }
     }
 
-    public <U extends Animal & Serializable> void metodoGenerico(U coisaGenerica){
+    public <U extends AnimalEx & Serializable> void metodoGenerico(U coisaGenerica){
         System.out.println(coisaGenerica);
     }
 
-    public <U extends Animal> void metodoGenerico2(U coisaGenerica){
+    public <U extends AnimalEx> void metodoGenerico2(U coisaGenerica){
         System.out.println(coisaGenerica);
     }
 
